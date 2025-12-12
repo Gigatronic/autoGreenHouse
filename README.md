@@ -17,8 +17,26 @@ Strømforsyning 230V – 12V 20A                   (https://ardustore.dk/produkt
 DC-DC Step-Down LM2596 Converter Module Display (https://ardustore.dk/produkt/dc-dc-step-down-lm2596-converter-module-display)
 NodeMcu ESP32S 38Pin CH340G Udviklingsboard     (https://ardustore.dk/produkt/nodemcu-esp32s-38pin-ch340g-udviklingsboard)
 
-## Mechanical Components
 
+## Mechanical Components
+https://www.lavprisel.dk/montagekasse-ekoe-mpi-130-t-280x280-mm-mklart-laag-og-montplade-752870
 
 ## Wiring components
+
+
+
+# 3D model of the setup.
+The greenhouse with all components are modelled using https://www.freecad.org/ version 1.0 software. The modelling is done using the IEC standard:
+IEC 60204-1 — Safety of Machinery: Electrical Equipment
+IEC 61439-1 / 2 — Low-voltage Switchgear and Controlgear Assemblies
+IEC 60364 — Electrical Installations of Buildings
+EN 60730 / IEC 60730 — Automatic Electrical Controls
+
+## 3D model of box
+The high powered AC 240 Volts is 
+
+
+
+# Thermal appoximations of setup.
+The heat distrubtion inside the box is modelled using https://wiki.freecad.org/FEM_Workbench to model the temperature inside the box.
 
