@@ -16,14 +16,16 @@ Strømforsyning 230V – 12V 20A                   (https://ardustore.dk/produkt
 8 x Jord Hygrometer Fugtighedsmåler Module      (https://ardustore.dk/produkt/soil-moisture-modul-sensor)
 DC-DC Step-Down LM2596 Converter Module Display (https://ardustore.dk/produkt/dc-dc-step-down-lm2596-converter-module-display)
 NodeMcu ESP32S 38Pin CH340G Udviklingsboard     (https://ardustore.dk/produkt/nodemcu-esp32s-38pin-ch340g-udviklingsboard)
-
+        
 
 ## Mechanical Components
-https://www.lavprisel.dk/montagekasse-ekoe-mpi-130-t-280x280-mm-mklart-laag-og-montplade-752870
+Montagekasse EKOE MPI 130 T 280x280 mm m/klart låg og mont.plade https://www.lavprisel.dk/montagekasse-ekoe-mpi-130-t-280x280-mm-mklart-laag-og-montplade-752870
+M3 x 20MM Afstands Forlænger Sortiment kasse 300Stk.
 
 ## Wiring components
-
-
+Wago samlemuffe i gul 5x0,5-2,5 mm² https://www.lavprisel.dk/wago-samlemuffe-5x4-mm2-transparent-53887
+Fastgørelsesadapter til 5-lederklemmer Wago https://www.lavprisel.dk/fastgoerelsesadapter-til-5-lederklemmer-wago-221-4-mm2-hvid-248606
+20MM Afstands Forlænger Sortiment kasse     https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
 
 # 3D model of the setup.
 The greenhouse with all components are modelled using https://www.freecad.org/ version 1.0 software. The modelling is done using the IEC standard:
