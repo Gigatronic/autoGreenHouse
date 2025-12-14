@@ -20,12 +20,20 @@ NodeMcu ESP32S 38Pin CH340G Udviklingsboard     (https://ardustore.dk/produkt/no
 
 ## Mechanical Components
 Montagekasse EKOE MPI 130 T 280x280 mm m/klart låg og mont.plade https://www.lavprisel.dk/montagekasse-ekoe-mpi-130-t-280x280-mm-mklart-laag-og-montplade-752870
-M3 x 20MM Afstands Forlænger Sortiment kasse 300Stk.
+M3 x 20MM Afstands Forlænger Sortiment kasse 300Stk. https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
+8x Plastic Water Solenoid Valve - 12V - 1/2" Nominal https://www.kiwi-electronics.com/en/plastic-water-solenoid-valve-12v-1-2quot-nominal-2624?search=Solenoi
+Water Pump - 8mm - 5-12VDC                           https://www.kiwi-electronics.com/en/water-pump-8mm-5-12vdc-11105?search=pump
+20MM Afstands Forlænger Sortiment kasse     https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
 
 ## Wiring components
 Wago samlemuffe i gul 5x0,5-2,5 mm² https://www.lavprisel.dk/wago-samlemuffe-5x4-mm2-transparent-53887
 Fastgørelsesadapter til 5-lederklemmer Wago https://www.lavprisel.dk/fastgoerelsesadapter-til-5-lederklemmer-wago-221-4-mm2-hvid-248606
-20MM Afstands Forlænger Sortiment kasse     https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
+20 m   Multikabel LIYY 2x0,75 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266
+20 m   Multikabel LIYY 3x0,50 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266](https://www.lavprisel.dk/multikabel-liyy-3x05-mm2-uskaermet-68279
+UL-1007 Flexible Ledning AWG-24 0.20# – Blå (ground)  https://ardustore.dk/produkt/ul-1007-flexible-ledning-awg-24-0-20-blaa
+UL-1007 Flexible Ledning AWG-24 0.20# – Sort (signal)        https://ardustore.dk/produkt/ul-1007-flexible-ledning-awg-24-0-20-sort
+UL-1007 Flexible Ledning AWG-24 0.20# – Rød (strø¨m)         https://ardustore.dk/produkt/ul-1007-flexible-ledning-awg-24-0-20-roed 
+
 
 # 3D model of the setup.
 The greenhouse with all components are modelled using https://www.freecad.org/ version 1.0 software. The modelling is done using the IEC standard:
