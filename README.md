@@ -33,7 +33,7 @@ Fastgørelsesadapter til 5-lederklemmer Wago https://www.lavprisel.dk/fastgoerel
 UL-1007 Flexible Ledning AWG-24 0.20# – Blå (ground)  https://ardustore.dk/produkt/ul-1007-flexible-ledning-awg-24-0-20-blaa
 UL-1007 Flexible Ledning AWG-24 0.20# – Sort (signal)        https://ardustore.dk/produkt/ul-1007-flexible-ledning-awg-24-0-20-sort
 UL-1007 Flexible Ledning AWG-24 0.20# – Rød (strø¨m)         https://ardustore.dk/produkt/ul-1007-flexible-ledning-awg-24-0-20-roed 
-
+16  x Forskruning M16 Polyamid IP68                     https://www.lavprisel.dk/forskruning-m16-polyamid-ip68-73570
 
 # 3D model of the setup.
 The greenhouse with all components are modelled using https://www.freecad.org/ version 1.0 software. The modelling is done using the IEC standard:
