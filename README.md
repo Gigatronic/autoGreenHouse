@@ -26,14 +26,15 @@ Water Pump - 8mm - 5-12VDC                           https://www.kiwi-electronic
 20MM Afstands Forlænger Sortiment kasse     https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
 
 ## Wiring components
-Wago samlemuffe i gul 5x0,5-2,5 mm² https://www.lavprisel.dk/wago-samlemuffe-5x4-mm2-transparent-53887
-Fastgørelsesadapter til 5-lederklemmer Wago https://www.lavprisel.dk/fastgoerelsesadapter-til-5-lederklemmer-wago-221-4-mm2-hvid-248606
+3 xHolder u/aflastning 5-vejs t/Inline samlemuffe, skruemont., grå https://www.lavprisel.dk/holder-uaflastning-5-vejs-tinline-samlemuffe-skruemont-graa-241343
+3 xSamlemuffe 10x0,2-4 mm² transparent med orange pal, serie 221 Wago https://www.lavprisel.dk/samlemuffe-10x02-4-mm2-transparent-med-orange-pal-serie-221-753035
 20 m   Multikabel LIYY 2x0,75 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266
 20 m   Multikabel LIYY 3x0,50 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266](https://www.lavprisel.dk/multikabel-liyy-3x05-mm2-uskaermet-68279
 UL-1007 Flexible Ledning AWG-24 0.20# – Blå (ground)  https://ardustore.dk/produkt/ul-1007-flexible-ledning-awg-24-0-20-blaa
 UL-1007 Flexible Ledning AWG-24 0.20# – Sort (signal)        https://ardustore.dk/produkt/ul-1007-flexible-ledning-awg-24-0-20-sort
 UL-1007 Flexible Ledning AWG-24 0.20# – Rød (strø¨m)         https://ardustore.dk/produkt/ul-1007-flexible-ledning-awg-24-0-20-roed 
-16  x Forskruning M16 Polyamid IP68                     https://www.lavprisel.dk/forskruning-m16-polyamid-ip68-73570
+8 x Forskruning M20, Ø6-12 mm, IP68                    https://www.lavprisel.dk/forskruning-m20-oe6-12-mm-ip68-53937
+40 stk Multipakning til M20 forskruning 3x4 mm        https://www.lavprisel.dk/multipakning-til-m20-forskruning-3x4-mm-634747
 
 # 3D model of the setup.
 The greenhouse with all components are modelled using https://www.freecad.org/ version 1.0 software. The modelling is done using the IEC standard:
