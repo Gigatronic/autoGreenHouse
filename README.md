@@ -25,6 +25,10 @@ M3 x 20MM Afstands Forlænger Sortiment kasse 300Stk. https://ardustore.dk/produ
 Water Pump - 8mm - 5-12VDC                           https://www.kiwi-electronics.com/en/water-pump-8mm-5-12vdc-11105?search=pump
 20MM Afstands Forlænger Sortiment kasse     https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
 
+## Green House Components
+VEVOR Walk-in Tunnel Drivhus, 20 x 10 x 7 ft bærbart plantevarmehus m/ galvaniserede stålbøjler, 3 topbjælker, 4 diagonale pæle, 2 lynlåsdøre og 12 rullevinduer, hvid https://eur.vevor.com/greenhouse-c_11889/vevor-walk-in-tunnel-greenhouse-galvanized-frame-waterproof-cover-20x10x7-ft-p_010650738220
+Højbedsramme sortbejdset 19 mm, 120 x 80 x 20 cm    https://www.jemogfix.dk/hoejbedsramme-sortbejdset-19-mm-120-x-80-x-20-cm/2193/9036005/
+
 ## Wiring components
 3 xHolder u/aflastning 5-vejs t/Inline samlemuffe, skruemont., grå https://www.lavprisel.dk/holder-uaflastning-5-vejs-tinline-samlemuffe-skruemont-graa-241343
 3 xSamlemuffe 10x0,2-4 mm² transparent med orange pal, serie 221 Wago https://www.lavprisel.dk/samlemuffe-10x02-4-mm2-transparent-med-orange-pal-serie-221-753035
