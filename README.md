@@ -35,9 +35,11 @@ Højbedsramme sortbejdset 19 mm, 120 x 80 x 20 cm    https://www.jemogfix.dk/hoe
 3 xSamlemuffe 10x0,2-4 mm² transparent med orange pal, serie 221 Wago https://www.lavprisel.dk/samlemuffe-10x02-4-mm2-transparent-med-orange-pal-serie-221-753035
 20 m   Multikabel LIYY 2x0,75 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266
 20 m   Multikabel LIYY 3x0,50 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266](https://www.lavprisel.dk/multikabel-liyy-3x05-mm2-uskaermet-68279
-Nexans PVT90 ledning, 1x0,75 mm², blå, metervare (ground)  https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-blaa-metervare-95219
-Nexans PVT90 ledning, 1x0,75 mm², sort, metervare  (signal)        https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-sort-metervare-95216
-Nexans PVT90 ledning, 1x0,75 mm², rød, metervare (strø¨m)         https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-roed-metervare-95218
+20 m Nexans PVT90 ledning, 1x0,75 mm², blå, metervare (ground)  https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-blaa-metervare-95219
+20 m Nexans PVT90 ledning, 1x0,75 mm², sort, metervare  (signal)        https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-sort-metervare-95216
+20 m Nexans PVT90 ledning, 1x0,75 mm², rød, metervare (strø¨m)         https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-roed-metervare-95218
+Flexible Lednings Kasse AWG-24 0.20mm² – 5x10M                       https://ardustore.dk/produkt/flexible-lednings-kasse-awg-24-0-0-20mm%c2%b2-5x10m
+20 x Dupont Wire Housing 1                                https://ardustore.dk/produkt/dupont-wire-housing
 8 x Forskruning M20, Ø6-12 mm, IP68                    https://www.lavprisel.dk/forskruning-m20-oe6-12-mm-ip68-53937
 40 stk Multipakning til M20 forskruning 3x4 mm        https://www.lavprisel.dk/multipakning-til-m20-forskruning-3x4-mm-634747
 
