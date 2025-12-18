@@ -12,7 +12,8 @@ This Project is to demonstrate a A-Z DIY build of a green house. The goal of thi
 ## The electrical components required:
 Optokobler Relæ 1-Kanal 12V LOW/HIGH Module     (https://ardustore.dk/produkt/optokobler-relae-1-kanal-12v-low-high-module)
 Optokobler Relæ 8-Kanal 12V LOW/HIGH Module     (https://ardustore.dk/produkt/optokobler-relae-8-kanal-12v-low-high-module)
-Strømforsyning 230V – 12V 20A                   (https://ardustore.dk/produkt/stroemforsyning-230v-12v-20a)
+Strømforsyning 230V – 12V 20A                    https://ardustore.dk/produkt/led-driver-transformer-230v-12v-5a
+Schneider automatsikring C Resi9 XP, 1P+0, 13A (https://www.lavprisel.dk/schneider-automatsikring-c-resi9-xp-1p0-13a-526058)
 8 x Jord Hygrometer Fugtighedsmåler Module      (https://ardustore.dk/produkt/soil-moisture-modul-sensor)
 DC-DC Step-Down LM2596 Converter Module Display (https://ardustore.dk/produkt/dc-dc-step-down-lm2596-converter-module-display)
 NodeMcu ESP32S 38Pin CH340G Udviklingsboard     (https://ardustore.dk/produkt/nodemcu-esp32s-38pin-ch340g-udviklingsboard)
