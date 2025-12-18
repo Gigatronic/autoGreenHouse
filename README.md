@@ -34,7 +34,6 @@ Højbedsramme sortbejdset 19 mm, 120 x 80 x 20 cm    https://www.jemogfix.dk/hoe
 3 xHolder u/aflastning 5-vejs t/Inline samlemuffe, skruemont., grå https://www.lavprisel.dk/holder-uaflastning-5-vejs-tinline-samlemuffe-skruemont-graa-241343
 3 xSamlemuffe 10x0,2-4 mm² transparent med orange pal, serie 221 Wago https://www.lavprisel.dk/samlemuffe-10x02-4-mm2-transparent-med-orange-pal-serie-221-753035
 20 m   Multikabel LIYY 2x0,75 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266
-20 m   Multikabel LIYY 3x0,50 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266](https://www.lavprisel.dk/multikabel-liyy-3x05-mm2-uskaermet-68279
 20 m Nexans PVT90 ledning, 1x0,75 mm², blå, metervare (ground)  https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-blaa-metervare-95219
 20 m Nexans PVT90 ledning, 1x0,75 mm², sort, metervare  (signal)        https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-sort-metervare-95216
 20 m Nexans PVT90 ledning, 1x0,75 mm², rød, metervare (strø¨m)         https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-roed-metervare-95218
