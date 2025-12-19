@@ -12,7 +12,7 @@ This Project is to demonstrate a A-Z DIY build of a green house. The goal of thi
 ## The electrical components required:
 Optokobler Relæ 1-Kanal 12V LOW/HIGH Module     (https://ardustore.dk/produkt/optokobler-relae-1-kanal-12v-low-high-module)
 Optokobler Relæ 8-Kanal 12V LOW/HIGH Module     (https://ardustore.dk/produkt/optokobler-relae-8-kanal-12v-low-high-module)
-Strømforsyning 230V – 12V 20A                    https://ardustore.dk/produkt/led-driver-transformer-230v-12v-5a
+Strømforsyning 230V – 12V 5A                    https://ardustore.dk/produkt/led-driver-transformer-230v-12v-5a
 Schneider automatsikring C Resi9 XP, 1P+0, 13A (https://www.lavprisel.dk/schneider-automatsikring-c-resi9-xp-1p0-13a-526058)
 8 x Jord Hygrometer Fugtighedsmåler Module      (https://ardustore.dk/produkt/soil-moisture-modul-sensor)
 DC-DC Step-Down LM2596 Converter Module Display (https://ardustore.dk/produkt/dc-dc-step-down-lm2596-converter-module-display)
@@ -48,6 +48,12 @@ IEC 60204-1 — Safety of Machinery: Electrical Equipment
 IEC 61439-1 / 2 — Low-voltage Switchgear and Controlgear Assemblies
 IEC 60364 — Electrical Installations of Buildings
 EN 60730 / IEC 60730 — Automatic Electrical Controls
+
+## Electrical Drawings
+The electrical drawings for the setup has beeen done by using EasyEDA. You can get a free account provided that the schematics are open source. The schematics can be found in the PDF file.
+The drawings contain a circuirt breaker and residuel current for current overflow to comply with IEC standards:
+        - IEC 60898-1 Electrical accessories – Circuit-breakers for overcurrent protection for household and similar installations
+        - Leakage protection (RCD / RCBO) IEC 61009-1
 
 ## 3D model of box
 The high powered AC 240 Volts is 
