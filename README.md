@@ -20,27 +20,26 @@ This Project is to demonstrate a A-Z DIY build of a green house. The goal of thi
         
 
 ## Mechanical Components
-Montagekasse EKOE MPI 130 T 280x280 mm m/klart låg og mont.plade https://www.lavprisel.dk/montagekasse-ekoe-mpi-130-t-280x280-mm-mklart-laag-og-montplade-752870
-M3 x 20MM Afstands Forlænger Sortiment kasse 300Stk. https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
-8x Plastic Water Solenoid Valve - 12V - 1/2" Nominal https://www.kiwi-electronics.com/en/plastic-water-solenoid-valve-12v-1-2quot-nominal-2624?search=Solenoi
-Water Pump - 8mm - 5-12VDC                           https://www.kiwi-electronics.com/en/water-pump-8mm-5-12vdc-11105?search=pump
-20MM Afstands Forlænger Sortiment kasse     https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
+1. Montagekasse EKPE MPI 130 G 380x280 mm m/gråt låg og mont.plade https://www.lavprisel.dk/montagekasse-ekpe-mpi-130-g-380x280-mm-mgraat-laag-og-montplade-752866
+2. M3 x 20MM Afstands Forlænger Sortiment kasse 300Stk. https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
+3. 8x Plastic Water Solenoid Valve - 12V - 1/2" Nominal https://www.kiwi-electronics.com/en/plastic-water-solenoid-valve-12v-1-2quot-nominal-2624?search=Solenoi
+4. Water Pump - 8mm - 5-12VDC                           https://www.kiwi-electronics.com/en/water-pump-8mm-5-12vdc-11105?search=pump
 
 ## Green House Components
-VEVOR Walk-in Tunnel Drivhus, 20 x 10 x 7 ft bærbart plantevarmehus m/ galvaniserede stålbøjler, 3 topbjælker, 4 diagonale pæle, 2 lynlåsdøre og 12 rullevinduer, hvid https://eur.vevor.com/greenhouse-c_11889/vevor-walk-in-tunnel-greenhouse-galvanized-frame-waterproof-cover-20x10x7-ft-p_010650738220
-Højbedsramme sortbejdset 19 mm, 120 x 80 x 20 cm    https://www.jemogfix.dk/hoejbedsramme-sortbejdset-19-mm-120-x-80-x-20-cm/2193/9036005/
+1. VEVOR Walk-in Tunnel Drivhus, 20 x 10 x 7 ft bærbart plantevarmehus m/ galvaniserede stålbøjler, 3 topbjælker, 4 diagonale pæle, 2 lynlåsdøre og 12 rullevinduer, hvid https://eur.vevor.com/greenhouse-c_11889/vevor-walk-in-tunnel-greenhouse-galvanized-frame-waterproof-cover-20x10x7-ft-p_010650738220
+2. 8 x Højbedsramme sortbejdset 19 mm, 120 x 80 x 20 cm    https://www.jemogfix.dk/hoejbedsramme-sortbejdset-19-mm-120-x-80-x-20-cm/2193/9036005/
 
 ## Wiring components
-8 xHolder til samlemuffe i serie 221, 0,5-6 mm², orange https://www.lavprisel.dk/holder-til-samlemuffe-i-serie-221-05-6-mm2-orange-62435
-25 x 25 stk Wago Samlemuffe 5x4 mm², Transparent https://www.lavprisel.dk/wago-samlemuffe-5x4-mm2-transparent-53887
-20 m   Multikabel LIYY 2x0,75 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266
-20 m Nexans PVT90 ledning, 1x0,75 mm², blå, metervare (ground)  https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-blaa-metervare-95219
-20 m Nexans PVT90 ledning, 1x0,75 mm², sort, metervare  (signal)        https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-sort-metervare-95216
-20 m Nexans PVT90 ledning, 1x0,75 mm², rød, metervare (strø¨m)         https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-roed-metervare-95218
-Flexible Lednings Kasse AWG-24 0.20mm² – 5x10M                       https://ardustore.dk/produkt/flexible-lednings-kasse-awg-24-0-0-20mm%c2%b2-5x10m
-20 x Dupont Wire Housing 1                                https://ardustore.dk/produkt/dupont-wire-housing
-8 x Forskruning M20, Ø6-12 mm, IP68                    https://www.lavprisel.dk/forskruning-m20-oe6-12-mm-ip68-53937
-40 stk Multipakning til M20 forskruning 3x4 mm        https://www.lavprisel.dk/multipakning-til-m20-forskruning-3x4-mm-634747
+1. 8 xHolder til samlemuffe i serie 221, 0,5-6 mm², orange https://www.lavprisel.dk/holder-til-samlemuffe-i-serie-221-05-6-mm2-orange-62435
+2. 25 stk Wago Samlemuffe 5x4 mm², Transparent https://www.lavprisel.dk/wago-samlemuffe-5x4-mm2-transparent-53887
+3. 20 m   Multikabel LIYY 2x0,75 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266
+4. 20 m Nexans PVT90 ledning, 1x0,75 mm², blå, metervare (ground)  https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-blaa-metervare-95219
+5. 20 m Nexans PVT90 ledning, 1x0,75 mm², sort, metervare  (signal)        https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-sort-metervare-95216
+6. 20 m Nexans PVT90 ledning, 1x0,75 mm², rød, metervare (strø¨m)         https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-roed-metervare-95218
+7. Flexible Lednings Kasse AWG-24 0.20mm² – 5x10M                       https://ardustore.dk/produkt/flexible-lednings-kasse-awg-24-0-0-20mm%c2%b2-5x10m
+8. 60 x Dupont Wire Housing 1                                https://ardustore.dk/produkt/dupont-wire-housing
+9. 8 x Forskruning M20, Ø6-12 mm, IP68                    https://www.lavprisel.dk/forskruning-m20-oe6-12-mm-ip68-53937
+10. 40 stk Multipakning til M20 forskruning 3x4 mm        https://www.lavprisel.dk/multipakning-til-m20-forskruning-3x4-mm-634747
 
 # 3D model of the setup.
 The greenhouse with all components are modelled using https://www.freecad.org/ version 1.0 software. The modelling is done using the IEC standard:
@@ -52,8 +51,8 @@ EN 60730 / IEC 60730 — Automatic Electrical Controls
 ## Electrical Drawings
 The electrical drawings for the setup has beeen done by using EasyEDA. You can get a free account provided that the schematics are open source. The schematics can be found in the PDF file.
 The drawings contain a circuirt breaker and residuel current for current overflow to comply with IEC standards:
-        - IEC 60898-1 Electrical accessories – Circuit-breakers for overcurrent protection for household and similar installations
-        - Leakage protection (RCD / RCBO) IEC 61009-1
+        1.  IEC 60898-1 Electrical accessories – Circuit-breakers for overcurrent protection for household and similar installations
+        2.  Leakage protection (RCD / RCBO) IEC 61009-1
 
 ## 3D model of box
 The high powered AC 240 Volts is 
