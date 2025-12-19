@@ -31,8 +31,8 @@ VEVOR Walk-in Tunnel Drivhus, 20 x 10 x 7 ft bærbart plantevarmehus m/ galvanis
 Højbedsramme sortbejdset 19 mm, 120 x 80 x 20 cm    https://www.jemogfix.dk/hoejbedsramme-sortbejdset-19-mm-120-x-80-x-20-cm/2193/9036005/
 
 ## Wiring components
-8 x Holder til samlemuffe i serie 221, 0,5-6 mm², orange https://www.lavprisel.dk/holder-til-samlemuffe-i-serie-221-05-6-mm2-orange-62435
-8 x Samlemuffe 10x0,2-4 mm² transparent med orange pal, serie 221 Wago https://www.lavprisel.dk/samlemuffe-10x02-4-mm2-transparent-med-orange-pal-serie-221-753035
+8 xHolder til samlemuffe i serie 221, 0,5-6 mm², orange https://www.lavprisel.dk/holder-til-samlemuffe-i-serie-221-05-6-mm2-orange-62435
+25 x 25 stk Wago Samlemuffe 5x4 mm², Transparent https://www.lavprisel.dk/wago-samlemuffe-5x4-mm2-transparent-53887
 20 m   Multikabel LIYY 2x0,75 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266
 20 m Nexans PVT90 ledning, 1x0,75 mm², blå, metervare (ground)  https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-blaa-metervare-95219
 20 m Nexans PVT90 ledning, 1x0,75 mm², sort, metervare  (signal)        https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-sort-metervare-95216
