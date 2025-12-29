@@ -11,9 +11,10 @@ This Project is to demonstrate a A-Z DIY build of a green house. The goal of thi
 
 ## The electrical components required:
 1. Custom bord (See PCB file)
-3. Strømforsyning 230V – 12V 5A                    https://ardustore.dk/produkt/led-driver-transformer-230v-12v-5a
+3. LED Transformer 1-18 W, 240 V to 12 V Driver Power Supply, No LED Flicker, No Transformer Noise, LEDs Low Voltage Transformer, for G4, MR11 GU4, MR16 GU5.3 LEDs Light Strips, Pack of 1              amazon.de
 4. Schneider automatsikring C Resi9 XP, 1P+0, 13A (https://www.lavprisel.dk/schneider-automatsikring-c-resi9-xp-1p0-13a-526058)
-5. 8 x Jord Hygrometer Fugtighedsmåler Module      (https://ardustore.dk/produkt/soil-moisture-modul-sensor)        
+5. 2 x Aideepen 6 Pieces Soil Moisture Sensor Hygrometer Module V1.2 Capacitive Corrosion Resistant Module for Plant Watering DIY Kits     amazon.de   ( € 9)
+6. Electric Potting Compound Electronics Transparent Insulating Paint Radiator Paint Conformal Coating, Waterproof, Heat Resistant, Suitable for Circuit Boards and Control Boards, 100 ml amazon.de €13.23
 
 ## Mechanical Components
 1. EYPINS Waterproof distribution box, IP67, junction box, waterproof ABS plastic housing, outdoor socket box, switch box, power box with mounting accessories, 30 x 20 x 16 cm, grey control cabinet (amazon.de) €33.60
