@@ -10,34 +10,32 @@ This Project is to demonstrate a A-Z DIY build of a green house. The goal of thi
 8. Program the the computer chip with RUST to control the watering based on input sensors and stream the data with wifi to the house.
 
 ## The electrical components required:
-1. Optokobler Relæ 1-Kanal 12V LOW/HIGH Module     (https://ardustore.dk/produkt/optokobler-relae-1-kanal-12v-low-high-module)
-2. Optokobler Relæ 8-Kanal 12V LOW/HIGH Module     (https://ardustore.dk/produkt/optokobler-relae-8-kanal-12v-low-high-module)
+1. Custom bord (See PCB file)
 3. Strømforsyning 230V – 12V 5A                    https://ardustore.dk/produkt/led-driver-transformer-230v-12v-5a
 4. Schneider automatsikring C Resi9 XP, 1P+0, 13A (https://www.lavprisel.dk/schneider-automatsikring-c-resi9-xp-1p0-13a-526058)
-5. 8 x Jord Hygrometer Fugtighedsmåler Module      (https://ardustore.dk/produkt/soil-moisture-modul-sensor)
-6. DC-DC Step-Down LM2596 Converter Module Display (https://ardustore.dk/produkt/dc-dc-step-down-lm2596-converter-module-display)
-7. NodeMcu ESP32S 38Pin CH340G Udviklingsboard     (https://ardustore.dk/produkt/nodemcu-esp32s-38pin-ch340g-udviklingsboard)
-        
+5. 8 x Jord Hygrometer Fugtighedsmåler Module      (https://ardustore.dk/produkt/soil-moisture-modul-sensor)        
 
 ## Mechanical Components
 1. Montagekasse EKPE MPI 130 G 380x280 mm m/gråt låg og mont.plade https://www.lavprisel.dk/montagekasse-ekpe-mpi-130-g-380x280-mm-mgraat-laag-og-montplade-752866
 2. M3 x 20MM Afstands Forlænger Sortiment kasse 300Stk. https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
 3. 8x Plastic Water Solenoid Valve - 12V - 1/2" Nominal https://www.kiwi-electronics.com/en/plastic-water-solenoid-valve-12v-1-2quot-nominal-2624?search=Solenoi
 4. Water Pump - 8mm - 5-12VDC                           https://www.kiwi-electronics.com/en/water-pump-8mm-5-12vdc-11105?search=pump
-
+5. IQ haveslange 25 m 1/2"                              https://www.lavprisvvs.dk/iq-haveslange-25-m-12-1001328222
+6. 8x Waving messing T-stykke, 1/2"                     https://www.lavprisvvs.dk/wavin-messing-t-stykke-12-1000052456
+7. 16 x Worker hanekobling med gevind 1/2"              https://www.lavprisvvs.dk/worker-hanekobling-med-gevind-12-508532
+8. 8 x Gardena 6-i-1 sprøjtedyse                        https://www.lavprisel.dk/gardena-6-i-1-sproejtedyse-754685
+9  2 x Wavin fordelerrør 3/4", 4 afgreninger 1/2"       https://www.lavprisvvs.dk/wavin-fordelerroer-34-4-afgreninger-12-1000257637
+10. 8 Spændebånd, 16-22 mm, rustfri                     https://www.lavprisvvs.dk/spaendebaand-16-22-mm-rustfri-200365#product-description
+11. Messing prop, 3/4"                                  https://www.lavprisvvs.dk/messing-prop-34-191074
+         
 ## Green House Components
 1. VEVOR Walk-in Tunnel Drivhus, 20 x 10 x 7 ft bærbart plantevarmehus m/ galvaniserede stålbøjler, 3 topbjælker, 4 diagonale pæle, 2 lynlåsdøre og 12 rullevinduer, hvid https://eur.vevor.com/greenhouse-c_11889/vevor-walk-in-tunnel-greenhouse-galvanized-frame-waterproof-cover-20x10x7-ft-p_010650738220
 2. 8 x Højbedsramme sortbejdset 19 mm, 120 x 80 x 20 cm    https://www.jemogfix.dk/hoejbedsramme-sortbejdset-19-mm-120-x-80-x-20-cm/2193/9036005/
 
 ## Wiring components
-1. 8 xHolder til samlemuffe i serie 221, 0,5-6 mm², orange https://www.lavprisel.dk/holder-til-samlemuffe-i-serie-221-05-6-mm2-orange-62435
-2. 25 stk Wago Samlemuffe 5x4 mm², Transparent https://www.lavprisel.dk/wago-samlemuffe-5x4-mm2-transparent-53887
+
 3. 20 m   Multikabel LIYY 2x0,75 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266
-4. 20 m Nexans PVT90 ledning, 1x0,75 mm², blå, metervare (ground)  https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-blaa-metervare-95219
-5. 20 m Nexans PVT90 ledning, 1x0,75 mm², sort, metervare  (signal)        https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-sort-metervare-95216
-6. 20 m Nexans PVT90 ledning, 1x0,75 mm², rød, metervare (strø¨m)         https://www.lavprisel.dk/nexans-pvt90-ledning-1x075-mm2-roed-metervare-95218
-7. Flexible Lednings Kasse AWG-24 0.20mm² – 5x10M                       https://ardustore.dk/produkt/flexible-lednings-kasse-awg-24-0-0-20mm%c2%b2-5x10m
-8. 60 x Dupont Wire Housing 1                                https://ardustore.dk/produkt/dupont-wire-housing
+3. 20 m   Multikabel LIYY 3x0,50 mm² uskærmet            https://www.lavprisel.dk/multikabel-liyy-3x05-mm2-uskaermet-68279
 9. 8 x Forskruning M20, Ø6-12 mm, IP68                    https://www.lavprisel.dk/forskruning-m20-oe6-12-mm-ip68-53937
 10. 40 stk Multipakning til M20 forskruning 3x4 mm        https://www.lavprisel.dk/multipakning-til-m20-forskruning-3x4-mm-634747
 
