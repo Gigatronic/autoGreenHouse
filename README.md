@@ -16,18 +16,15 @@ This Project is to demonstrate a A-Z DIY build of a green house. The goal of thi
 5. 8 x Jord Hygrometer Fugtighedsmåler Module      (https://ardustore.dk/produkt/soil-moisture-modul-sensor)        
 
 ## Mechanical Components
-1. Montagekasse EKPE MPI 130 G 380x280 mm m/gråt låg og mont.plade https://www.lavprisel.dk/montagekasse-ekpe-mpi-130-g-380x280-mm-mgraat-laag-og-montplade-752866
-2. M3 x 20MM Afstands Forlænger Sortiment kasse 300Stk. https://ardustore.dk/produkt/m3-x-20mm-afstands-forlaenger-sortiment-kasse-300stk
-3. 8x Plastic Water Solenoid Valve - 12V - 1/2" Nominal https://www.kiwi-electronics.com/en/plastic-water-solenoid-valve-12v-1-2quot-nominal-2624?search=Solenoi
-4. Water Pump - 8mm - 5-12VDC                           https://www.kiwi-electronics.com/en/water-pump-8mm-5-12vdc-11105?search=pump
-5. IQ haveslange 25 m 1/2"                              https://www.lavprisvvs.dk/iq-haveslange-25-m-12-1001328222
-6. 8x Waving messing T-stykke, 1/2"                     https://www.lavprisvvs.dk/wavin-messing-t-stykke-12-1000052456
-7. 16 x Worker hanekobling med gevind 1/2"              https://www.lavprisvvs.dk/worker-hanekobling-med-gevind-12-508532
-8. 8 x Gardena 6-i-1 sprøjtedyse                        https://www.lavprisel.dk/gardena-6-i-1-sproejtedyse-754685
-9  2 x Wavin fordelerrør 3/4", 4 afgreninger 1/2"       https://www.lavprisvvs.dk/wavin-fordelerroer-34-4-afgreninger-12-1000257637
-10. 8 Spændebånd, 16-22 mm, rustfri                     https://www.lavprisvvs.dk/spaendebaand-16-22-mm-rustfri-200365#product-description
-11. Messing prop, 3/4"                                  https://www.lavprisvvs.dk/messing-prop-34-191074
-         
+1. EYPINS Waterproof distribution box, IP67, junction box, waterproof ABS plastic housing, outdoor socket box, switch box, power box with mounting accessories, 30 x 20 x 16 cm, grey control cabinet (amazon.de) €33.60
+2.320PCS M3 Male Female Nylon Hex Spacer Standoff Screw Nut Threaded Pillar PCB Motherboard Assorted Assortment Kit (Black)              (amazon.de)             €13.65
+3.  8 x 12 V Normally Closed Quick Insert Inlet Water Solenoid Valve for Pure Water Machine Water Dispenser Washing Machine(amazon.de) €80
+4. Retoo Mini Water Pump 12 V, Submersible Aquarium Pump 240 L/H 4.8 W, Brushless Small Submersible Pump, Fountain Pump, Centrifugal Pump, Nozzle Diameter 8 mm, Without Plug (amazon.de) €8.60                         
+5. 48-Piece 8 mm Pneumatic Quick Push-in Connection Kit for Air Hoses, Hose OD Push to Connect Air Control Ball Valve Pneumatic Valve Union (18 x Straight/10 x Angle/10 x T-/10 x Splitter) (amazon.de)  €12.49
+6. QWORK® 10m PU Pneumatikschlauch Außen 8mm x Innen 5mm Blau, Flexibel Druckluftschlauch für Pneumatische Werkzeuge     (amazon.de)    € 32
+7. Hose Clamps Pack of 10, Hose Clamp, 8 Size Adjustable Brake Hose Clamp for Clamping, 6 mm - 20 mm, Stainless Steel Worm Drive Hose Clamp for Home, Gas Pipe, Flexible Hose Pipe (6-8 mm) €8
+8. Pack of 50 Garden Hose Mounting Anchors, 360 Degree Irrigation System, Micro Drip Drip, 8 Holes Sprinkler, Socket Fork for 4/7 mm Hose, Drip Irrigation Emitters (Black) €19
+9. EYPINS Waterproof distribution box, IP67, junction box, waterproof ABS plastic housing, outdoor socket box, switch box, power box with mounting accessories, 15 x 15 x 9 cm, transparent control cabinet €20
 ## Green House Components
 1. VEVOR Walk-in Tunnel Drivhus, 20 x 10 x 7 ft bærbart plantevarmehus m/ galvaniserede stålbøjler, 3 topbjælker, 4 diagonale pæle, 2 lynlåsdøre og 12 rullevinduer, hvid https://eur.vevor.com/greenhouse-c_11889/vevor-walk-in-tunnel-greenhouse-galvanized-frame-waterproof-cover-20x10x7-ft-p_010650738220
 2. 8 x Højbedsramme sortbejdset 19 mm, 120 x 80 x 20 cm    https://www.jemogfix.dk/hoejbedsramme-sortbejdset-19-mm-120-x-80-x-20-cm/2193/9036005/
