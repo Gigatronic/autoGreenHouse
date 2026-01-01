@@ -11,21 +11,20 @@ This Project is to demonstrate a A-Z DIY build of a green house. The goal of thi
 
 ## The electrical components required:
 1. Custom bord (See PCB file)
-3. LED Transformer 1-18 W, 240 V to 12 V Driver Power Supply, No LED Flicker, No Transformer Noise, LEDs Low Voltage Transformer, for G4, MR11 GU4, MR16 GU5.3 LEDs Light Strips, Pack of 1              amazon.de
+3. LED Transformer 1-36 W, 240 V to 12 V Driver Power Supply, No LED Flicker, No Transformer Noise, LEDs Low Voltage Transformer, for G4, MR11 GU4, MR16 GU5.3 LEDs Light Strips          amazon.de €8.91
 4. Schneider automatsikring C Resi9 XP, 1P+0, 13A (https://www.lavprisel.dk/schneider-automatsikring-c-resi9-xp-1p0-13a-526058)
 5. 2 x Aideepen 6 Pieces Soil Moisture Sensor Hygrometer Module V1.2 Capacitive Corrosion Resistant Module for Plant Watering DIY Kits     amazon.de   ( € 9)
 6. Electric Potting Compound Electronics Transparent Insulating Paint Radiator Paint Conformal Coating, Waterproof, Heat Resistant, Suitable for Circuit Boards and Control Boards, 100 ml amazon.de €13.23
 
 ## Mechanical Components
-1. EYPINS Waterproof distribution box, IP67, junction box, waterproof ABS plastic housing, outdoor socket box, switch box, power box with mounting accessories, 30 x 20 x 16 cm, grey control cabinet (amazon.de) €33.60
-2.320PCS M3 Male Female Nylon Hex Spacer Standoff Screw Nut Threaded Pillar PCB Motherboard Assorted Assortment Kit (Black)              (amazon.de)             €13.65
-3.  8 x 12 V Normally Closed Quick Insert Inlet Water Solenoid Valve for Pure Water Machine Water Dispenser Washing Machine(amazon.de) €80
-4. Retoo Mini Water Pump 12 V, Submersible Aquarium Pump 240 L/H 4.8 W, Brushless Small Submersible Pump, Fountain Pump, Centrifugal Pump, Nozzle Diameter 8 mm, Without Plug (amazon.de) €8.60                         
-5. 48-Piece 8 mm Pneumatic Quick Push-in Connection Kit for Air Hoses, Hose OD Push to Connect Air Control Ball Valve Pneumatic Valve Union (18 x Straight/10 x Angle/10 x T-/10 x Splitter) (amazon.de)  €12.49
-6. QWORK® 10m PU Pneumatikschlauch Außen 8mm x Innen 5mm Blau, Flexibel Druckluftschlauch für Pneumatische Werkzeuge     (amazon.de)    € 32
-7. Hose Clamps Pack of 10, Hose Clamp, 8 Size Adjustable Brake Hose Clamp for Clamping, 6 mm - 20 mm, Stainless Steel Worm Drive Hose Clamp for Home, Gas Pipe, Flexible Hose Pipe (6-8 mm) €8
-8. Pack of 50 Garden Hose Mounting Anchors, 360 Degree Irrigation System, Micro Drip Drip, 8 Holes Sprinkler, Socket Fork for 4/7 mm Hose, Drip Irrigation Emitters (Black) €19
-9. EYPINS Waterproof distribution box, IP67, junction box, waterproof ABS plastic housing, outdoor socket box, switch box, power box with mounting accessories, 15 x 15 x 9 cm, transparent control cabinet €20
+1. EYPINS Waterproof distribution box, IP67, junction box, waterproof ABS plastic housing, outdoor socket box, switch box, power box with mounting accessories, 30 x 20 x 16 cm, transparent control    (amazon.de)  €33.60
+2  YIXISI Pack of 280 M3 Nylon Male-Female Hex Column Standoff Spacer Screw Nut Assortment Kit for Board Repair Accessories, Black          (amazon.de)             €8.39
+3. 4 x 2pcs DC 12V 4.8W Mini Brushless Submersible Pump Water Pump Centrifugal Pump 240L/H Aquarium Garden Fall Fish Container Water Fountain Entertainment Nozzle Diameter 8 mm for Pool Aquarium Fish Tank  (amazon.de)   €44          
+4. Forever Speed Irrigation System 315 Pieces Garden Irrigation Kit, 60 m + 15 m Irrigation Pipes, Drip Irrigation Spray Irrigation Cooling System for Landscape, Greenhouse, Patio  (amazon.de)    €32.55
+7. 60-Piece Professional Hose Clamp Set, 8-38 mm Pipe Clamps Made of 304 Stainless Steel, 7 Sizes Hose Clamps, Hose Ties Industrial Quality, Robust for Water Pipes, Automotive Tubing  (amazon.de)  €13.65
+8. Hailege 2pcs CP2102 USB 2.0 to TTL UART Serial Converter Module 5-Pin STC PRGMR with Dupont Wire  (amazon.de) €9.65
+9. WEILAOK Electronics Insulating Spray, Transparent Insulating Varnish, Waterproof and Quick Drying, Suitable for Circuit Boards and Control Boards of Household Appliances, 100 ml €13.43
+
 ## Green House Components
 1. VEVOR Walk-in Tunnel Drivhus, 20 x 10 x 7 ft bærbart plantevarmehus m/ galvaniserede stålbøjler, 3 topbjælker, 4 diagonale pæle, 2 lynlåsdøre og 12 rullevinduer, hvid https://eur.vevor.com/greenhouse-c_11889/vevor-walk-in-tunnel-greenhouse-galvanized-frame-waterproof-cover-20x10x7-ft-p_010650738220
 2. 8 x Højbedsramme sortbejdset 19 mm, 120 x 80 x 20 cm    https://www.jemogfix.dk/hoejbedsramme-sortbejdset-19-mm-120-x-80-x-20-cm/2193/9036005/
@@ -33,9 +32,8 @@ This Project is to demonstrate a A-Z DIY build of a green house. The goal of thi
 ## Wiring components
 
 3. 20 m   Multikabel LIYY 2x0,75 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-2x075-mm2-uskaermet-68266
-3. 20 m   Multikabel LIYY 3x0,50 mm² uskærmet            https://www.lavprisel.dk/multikabel-liyy-3x05-mm2-uskaermet-68279
-9. 8 x Forskruning M20, Ø6-12 mm, IP68                    https://www.lavprisel.dk/forskruning-m20-oe6-12-mm-ip68-53937
-10. 40 stk Multipakning til M20 forskruning 3x4 mm        https://www.lavprisel.dk/multipakning-til-m20-forskruning-3x4-mm-634747
+3. 20 m   Multikabel LIYY 3x0,50 mm² uskærmet           https://www.lavprisel.dk/multikabel-liyy-3x05-mm2-uskaermet-68279
+9. 16 x Forskruning M16 Polyamid IP68                   https://www.lavprisel.dk/forskruning-m16-polyamid-ip68-73570
 
 # 3D model of the setup.
 The greenhouse with all components are modelled using https://www.freecad.org/ version 1.0 software. The modelling is done using the IEC standard:
